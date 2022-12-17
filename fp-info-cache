@@ -1,4 +1,4 @@
-20587782650105169
+20589453873670707
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53243,6 +53243,13 @@ HELIX_DCT_ICDconnector34pin_corrected
 34
 HELIX
 Perri_conn_2x5
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+HELIX
+Perri_conn_2x5_Reverse
 Through hole straight pin header, 2x05, 2.54mm pitch, double rows
 Through hole pin header THT 2x05 2.54mm double row
 0
